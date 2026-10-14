@@ -1,0 +1,2 @@
+# ccv
+cargo-c-vendor
